@@ -11,7 +11,7 @@ Open-source zde hostujeme kód všech našich projektů a spolupracujeme na jeji
 3. *tajný projekt, o kterém ještě nemůžeme mluvit*
 
 ## Chtěl by jsi se zapojit a pomoci nám udělat Hejčín ještě lepší místo?
-Pak neváhej a připoj se do této organizace nebo kontaktuj kohokoliv ze Studentské rady GH. S radostí uvítáme jakoukoliv pomoc. Na oplátku ti můžeme nabídnout zkušenosti práce ve středně velikém týmu. Navíc tvůj kód pak bude každý den zlepšovat životy přes tísice lidí!
+Pak neváhej a kontaktuj kohokoliv ze Studentské rady GH, který tě pak přidá do této organizace. S radostí uvítáme jakoukoliv pomoc. Na oplátku ti můžeme nabídnout zkušenosti práce ve středně velikém týmu. Navíc tvůj kód pak bude každý den zlepšovat životy přes tísice lidí!
 
 ## Nejsi úplně programátor, ale stejně máš pro nás nějaký podnět?
 V tom případě nám prosím napiš na veřejnou diskuzi [zde](https://github.com/orgs/StudentskaRadaGH/discussions).
